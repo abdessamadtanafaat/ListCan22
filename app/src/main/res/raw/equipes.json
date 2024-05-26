@@ -1,0 +1,325 @@
+[
+
+    {
+      "pays": "QATAR",
+      "drapeau": "drapeau_qatar",
+      "groupe": "Group A",
+      "coach": "Félix Sánchez",
+      "starPlayer": "Almoez Ali",
+      "coachImage": "coach_image_qatar",
+      "starPlayerImage": "star_player_image_qatar",
+      "lineupImage": "lineup_image_qatar"
+    },
+    {
+      "pays": "ECUADOR",
+      "drapeau": "drapeau_ecuador",
+      "groupe": "Group B",
+      "coach": "Gustavo Alfaro",
+      "starPlayer": "Enner Valencia",
+      "coachImage": "coach_image_ecuador",
+      "starPlayerImage": "star_player_image_ecuador",
+      "lineupImage": "lineup_image_ecuador"
+    },
+    {
+      "pays": "SENEGAL",
+      "drapeau": "drapeau_senegal",
+      "groupe": "Group C",
+      "coach": "Aliou Cissé",
+      "starPlayer": "Sadio Mané",
+      "coachImage": "coach_image_senegal",
+      "starPlayerImage": "star_player_image_senegal",
+      "lineupImage": "lineup_image_senegal"
+    },
+    {
+      "pays": "NETHERLANDS",
+      "drapeau": "drapeau_netherlands",
+      "groupe": "Group D",
+      "coach": "Frank de Boer",
+      "starPlayer": "Memphis Depay",
+      "coachImage": "coach_image_netherlands",
+      "starPlayerImage": "star_player_image_netherlands",
+      "lineupImage": "lineup_image_netherlands"
+    },
+
+    {
+      "pays": "ENGLAND",
+      "drapeau": "drapeau_england",
+      "groupe": "Group E",
+      "coach": "Gareth Southgate",
+      "starPlayer": "Harry Kane",
+      "coachImage": "coach_image_england",
+      "starPlayerImage": "star_player_image_england",
+      "lineupImage": "lineup_image_england"
+    },
+    {
+      "pays": "IRAN",
+      "drapeau": "drapeau_iran",
+      "groupe": "Group F",
+      "coach": "Dr. Javier Mancini",
+      "starPlayer": "Sardar Azmoun",
+      "coachImage": "coach_image_iran",
+      "starPlayerImage": "star_player_image_iran",
+      "lineupImage": "lineup_image_iran"
+    },
+
+    {
+      "pays": "USA",
+      "drapeau": "drapeau_usa",
+      "groupe": "Group B",
+      "coach": "Gregg Berhalter",
+      "starPlayer": "Christian Pulisic",
+      "coachImage": "coach_image_usa",
+      "starPlayerImage": "star_player_image_usa",
+      "lineupImage": "lineup_image_usa"
+    },
+    {
+      "pays": "WALES",
+      "drapeau": "drapeau_wales",
+      "groupe": "Group C",
+      "coach": "Robert Page",
+      "starPlayer": "Gareth Bale",
+      "coachImage": "coach_image_wales",
+      "starPlayerImage": "star_player_image_wales",
+      "lineupImage": "lineup_image_wales"
+    },
+    {
+      "pays": "ARGENTINA",
+      "drapeau": "drapeau_argentina",
+      "groupe": "Group D",
+      "coach": "Lionel Scaloni",
+      "starPlayer": "Lionel Messi",
+      "coachImage": "coach_image_argentina",
+      "starPlayerImage": "star_player_image_argentina",
+      "lineupImage": "lineup_image_argentina"
+    },
+    {
+      "pays": "SAUDI ARABIA",
+      "drapeau": "drapeau_saudi_arabia",
+      "groupe": "Group E",
+      "coach": "Hervé Renard",
+      "starPlayer": "Salem Al-Dawsari",
+      "coachImage": "coach_image_saudi_arabia",
+      "starPlayerImage": "star_player_image_saudi_arabia",
+      "lineupImage": "lineup_image_saudi_arabia"
+    },
+    {
+      "pays": "MEXICO",
+      "drapeau": "drapeau_mexico",
+      "groupe": "Group G",
+      "coach": "Gerardo Martino",
+      "starPlayer": "Hirving Lozano",
+      "coachImage": "coach_image_mexico",
+      "starPlayerImage": "star_player_image_mexico",
+      "lineupImage": "lineup_image_mexico"
+    },
+    {
+      "pays": "POLAND",
+      "drapeau": "drapeau_poland",
+      "groupe": "Group H",
+      "coach": "Paulo Sousa",
+      "starPlayer": "Robert Lewandowski",
+      "coachImage": "coach_image_poland",
+      "starPlayerImage": "star_player_image_poland",
+      "lineupImage": "lineup_image_poland"
+    },
+    {
+      "pays": "FRANCE",
+      "drapeau": "drapeau_france",
+      "groupe": "Group I",
+      "coach": "Didier Deschamps",
+      "starPlayer": "Kylian Mbappé",
+      "coachImage": "coach_image_france",
+      "starPlayerImage": "star_player_image_france",
+      "lineupImage": "lineup_image_france"
+    },
+    {
+      "pays": "AUSTRALIA",
+      "drapeau": "drapeau_australia",
+      "groupe": "Group J",
+      "coach": "Graham Arnold",
+      "starPlayer": "Aaron Mooy",
+      "coachImage": "coach_image_australia",
+      "starPlayerImage": "star_player_image_australia",
+      "lineupImage": "lineup_image_australia"
+    },
+    {
+      "pays": "DENMARK",
+      "drapeau": "drapeau_denmark",
+      "groupe": "Group K",
+      "coach": "Kasper Hjulmand",
+      "starPlayer": "Christian Eriksen",
+      "coachImage": "coach_image_denmark",
+      "starPlayerImage": "star_player_image_denmark",
+      "lineupImage": "lineup_image_denmark"
+    },
+    {
+      "pays": "TUNISIA",
+      "drapeau": "drapeau_tunisia",
+      "groupe": "Group L",
+      "coach": "Nabil Maâloul",
+      "starPlayer": "Youssef Msakni",
+      "coachImage": "coach_image_tunisia",
+      "starPlayerImage": "star_player_image_tunisia",
+      "lineupImage": "lineup_image_tunisia"
+    },
+    {
+      "pays": "SPAIN",
+      "drapeau": "drapeau_spain",
+      "groupe": "Group M",
+      "coach": "Luis Enrique",
+      "starPlayer": "Sergio Ramos",
+      "coachImage": "coach_image_spain",
+      "starPlayerImage": "star_player_image_spain",
+      "lineupImage": "lineup_image_spain"
+    },
+    {
+      "pays": "COSTA RICA",
+      "drapeau": "drapeau_costa_rica",
+      "groupe": "Group N",
+      "coach": "Luis Fernando Suárez",
+      "starPlayer": "Bryan Ruiz",
+      "coachImage": "coach_image_costa_rica",
+      "starPlayerImage": "star_player_image_costa_rica",
+      "lineupImage": "lineup_image_costa_rica"
+    },
+    {
+      "pays": "GERMANY",
+      "drapeau": "drapeau_germany",
+      "groupe": "Group O",
+      "coach": "Joachim Löw",
+      "starPlayer": "Toni Kroos",
+      "coachImage": "coach_image_germany",
+      "starPlayerImage": "star_player_image_germany",
+      "lineupImage": "lineup_image_germany"
+    },
+    {
+      "pays": "JAPAN",
+      "drapeau": "drapeau_japan",
+      "groupe": "Group P",
+      "coach": "Hajime Moriyasu",
+      "starPlayer": "Shinji Kagawa",
+      "coachImage": "coach_image_japan",
+      "starPlayerImage": "star_player_image_japan",
+      "lineupImage": "lineup_image_japan"
+    },
+    {
+      "pays": "BELGIUM",
+      "drapeau": "drapeau_belgium",
+      "groupe": "Group Q",
+      "coach": "Roberto Martínez",
+      "starPlayer": "Kevin De Bruyne",
+      "coachImage": "coach_image_belgium",
+      "starPlayerImage": "star_player_image_belgium",
+      "lineupImage": "lineup_image_belgium"
+    },
+    {
+      "pays": "CANADA",
+      "drapeau": "drapeau_canada",
+      "groupe": "Group R",
+      "coach": "John Herdman",
+      "starPlayer": "Alphonso Davies",
+      "coachImage": "coach_image_canada",
+      "starPlayerImage": "star_player_image_canada",
+      "lineupImage": "lineup_image_canada"
+    },
+  {
+    "pays": "BRAZIL",
+    "drapeau": "drapeau_brazil",
+    "groupe": "Group A",
+    "coach": "TITE",
+    "starPlayer": "Neymar",
+    "coachImage": "coach_image_brazil",
+    "starPlayerImage": "star_player_image_brazil",
+    "lineupImage": "lineup_image_brazil"
+  },
+    {
+      "pays": "MOROCCO",
+      "drapeau": "drapeau_morocco",
+      "groupe": "Group S",
+      "coach": "Vahid Halilhodžić",
+      "starPlayer": "Achraf Hakimi",
+      "coachImage": "coach_image_morocco",
+      "starPlayerImage": "star_player_image_morocco",
+      "lineupImage": "lineup_image_morocco"
+    },
+    {
+      "pays": "CROATIA",
+      "drapeau": "drapeau_croatia",
+      "groupe": "Group T",
+      "coach": "Zlatko Dalić",
+      "starPlayer": "Luka Modrić",
+      "coachImage": "coach_image_croatia",
+      "starPlayerImage": "star_player_image_croatia",
+      "lineupImage": "lineup_image_croatia"
+    },
+    {
+      "pays": "SERBIA",
+      "drapeau": "drapeau_serbia",
+      "groupe": "Group U",
+      "coach": "Dragan Stojković",
+      "starPlayer": "Dušan Tadić",
+      "coachImage": "coach_image_serbia",
+      "starPlayerImage": "star_player_image_serbia",
+      "lineupImage": "lineup_image_serbia"
+    },
+    {
+      "pays": "SWITZERLAND",
+      "drapeau": "drapeau_switzerland",
+      "groupe": "Group V",
+      "coach": "Murat Yakin",
+      "starPlayer": "Granit Xhaka",
+      "coachImage": "coach_image_switzerland",
+      "starPlayerImage": "star_player_image_switzerland",
+      "lineupImage": "lineup_image_switzerland"
+    },
+    {
+      "pays": "CAMEROON",
+      "drapeau": "drapeau_cameroon",
+      "groupe": "Group W",
+      "coach": "Antonio Conceição",
+      "starPlayer": "Vincent Aboubakar",
+      "coachImage": "coach_image_cameroon",
+      "starPlayerImage": "star_player_image_cameroon",
+      "lineupImage": "lineup_image_cameroon"
+    },
+    {
+      "pays": "PORTUGAL",
+      "drapeau": "drapeau_portugal",
+      "groupe": "Group X",
+      "coach": "Fernando Santos",
+      "starPlayer": "Cristiano Ronaldo",
+      "coachImage": "coach_image_portugal",
+      "starPlayerImage": "star_player_image_portugal",
+      "lineupImage": "lineup_image_portugal"
+    },
+    {
+      "pays": "GHANA",
+      "drapeau": "drapeau_ghana",
+      "groupe": "Group Y",
+      "coach": "Charles Akonnor",
+      "starPlayer": "Thomas Partey",
+      "coachImage": "coach_image_ghana",
+      "starPlayerImage": "star_player_image_ghana",
+      "lineupImage": "lineup_image_ghana"
+    },
+    {
+      "pays": "URUGUAY",
+      "drapeau": "drapeau_uruguay",
+      "groupe": "Group Z",
+      "coach": "Óscar Tabárez",
+      "starPlayer": "Luis Suárez",
+      "coachImage": "coach_image_uruguay",
+      "starPlayerImage": "star_player_image_uruguay",
+      "lineupImage": "lineup_image_uruguay"
+    },
+  {
+    "pays": "KOREA REPUBLIC",
+    "drapeau": "drapeau_korea_republic",
+    "groupe": "Group KR",
+    "coach": "Paulo Bento",
+    "starPlayer": "Son Heung-min",
+    "coachImage": "coach_image_korea_republic",
+    "starPlayerImage": "star_player_image_korea_republic",
+    "lineupImage": "lineup_image_korea_republic"
+  }
+]
